@@ -36,7 +36,7 @@ Check out [config.sample file](https://github.com/Itz-fork/Mega.nz-Bot/blob/main
 > Notice ⚠️:
 > Please refer the [Deployment](https://github.com/Itz-fork/X-Bin-Patch#deployment) guide inorder to deploy this bot Heroku. THIS REPO ISN'T FUCKING COMPATIBLE WITH HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/snapchotu/Mega.nz-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### With VPS/PC
 ---
@@ -48,7 +48,7 @@ curl -sS https://raw.githubusercontent.com/Itz-fork/Mega.nz-Bot/main/installer.s
 ```
 ---
 
-To setup [Mega.nz-Bot](https://github.com/Itz-fork/Mega.nz-Bot) follow these steps,
+To setup [Mega.nz-Bot](https://heroku.com/deploy) follow these steps,
 
 - Clone the Repo,
 ```
